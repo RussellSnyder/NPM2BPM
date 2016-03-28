@@ -19,22 +19,23 @@ As much Node as possible because it is awesome.
 
 Audio: http://flockingjs.org/
 
-___ADD YOUR SUGGESTED TECHNOLOGY HERE___
+___!!!ADD YOUR SUGGESTED TECHNOLOGY HERE!!!___
 
 ## Milestones
 
-1) Simple app that either beeps when package is downloading or plays a single tone.  Must stop when package download complete
-2) Adjust beeps and tone to be spaced based on speed of download.  
-3) Have multiple streams of beeps and tones running simultaneously.  
-4) Create several melodies based on the name of package and various aethestics (rock, jazz, smooth). 
-5) Create tiny UI to choose which melodies a user would like to play during download
-6) Integrate into NPM environment so that packages can call NPM2BPM as a dependency melodies will be generated on download 
-7) Create electron app ready for testing
-8) Run user tests and refactor app according to feedback
-9) Release prototype on NPM 
-10) Drink the best Whiskey available at Towers Pub in Ludwigsburg
+1. Simple app that either beeps when package is downloading or plays a single tone.  Must stop when package download complete
+2. Adjust beeps and tone to be spaced based on speed of download.  
+3. Have multiple streams of beeps and tones running simultaneously.  
+4. Create several melodies based on the name of package and various aethestics (rock, jazz, smooth). 
+5. Create tiny UI to choose which melodies a user would like to play during download
+6. Integrate into NPM environment so that packages can call NPM2BPM as a dependency melodies will be generated on download 
+7. Create electron app ready for testing
+8. Run user tests and refactor app according to feedback
+9. Release prototype on NPM 
+10. Drink the best Whiskey available at Towers Pub in Ludwigsburg
 
 ## TODOs
 
-- Decide on which technologies we will use exactly
-- Meet and hack together Milestone 1.  Repeate for all the other milestones
+*Decide on which technologies we will use exactly
+*Meet and hack together Milestone 1.  
+*Repeat for all the other milestones
