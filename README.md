@@ -36,6 +36,6 @@ ___!!!ADD YOUR SUGGESTED TECHNOLOGY HERE!!!___
 
 ## TODOs
 
-*Decide on which technologies we will use exactly
-*Meet and hack together Milestone 1.  
-*Repeat for all the other milestones
+* Decide on which technologies we will use exactly
+* Meet and hack together Milestone 1
+* Repeat for all the other milestones
