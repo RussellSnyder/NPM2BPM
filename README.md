@@ -1,22 +1,25 @@
 # NPM2BPM
 Giving Node dependency downloading that digital crunchy sound it's missing
+```
 =========================================================
 ||  |\   | |-\    /|   /|  (---||  |\  |-\    /|   /|  ||
 ||  | \  | |  |  / |  / |   ___||  |_> |  |  / |  / |  ||
 ||  |  \ | |-/  /  | /  |  ||      | > |-/  /  | /  |  ||
 ||  |   \| |   /   |/   |  ||---)  |/  |   /   |/   |  ||
 =========================================================
-
+```
 ## Objective
 
 Create a Node based app that plays algorithmically generated music while npm packages load, based on which package you are loading and how fast your connection is
 
 ## Technology Planned
 
-Everything based in Node as much as possible because it is awesome.
+100% Javascript all the time.
+As much Node as possible because it is awesome.  
 
 Audio: http://flockingjs.org/
 
+___ADD YOUR SUGGESTED TECHNOLOGY HERE___
 
 ## Milestones
 
